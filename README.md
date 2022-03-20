@@ -3,8 +3,9 @@ The Server Mode Legym automatically check-in Script | 服务版乐健自动打�
 --
 ## Requirements:
 - 1.Need Python v3.9 or above
-- 2.This project is based on justcyl/legym module.You must install it to support the script to run.
-- 3.For Windows, the script needs Administrator Permission; For Linux, please run it with sudo permission.
+- 2.This project is based on justcyl/legym module. You must install it to support the script to run.
+- 3.This project uses `schedule` module to automatically run rasks. You must install it to support the script.
+- 4.For Windows, the script needs Administrator Permission; For Linux, please run it with sudo permission.
 ## How To Deploy?
 - 1.Clone this project to any position on your device
 - 2.Install legym module.
