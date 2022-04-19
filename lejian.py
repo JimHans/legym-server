@@ -98,7 +98,7 @@ def automation_sign():
 
     print("Signing...", end="")
     results = user.sign()
-    if(results[1] == True):print("success")
+    if(results and results[1] == True):print("success")
     else : print("failed")
     print(results)
     f.write(str(results)+"\n")
