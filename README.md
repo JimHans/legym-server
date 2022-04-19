@@ -25,3 +25,9 @@ Windows:
 - 1.The script must keep running to automantically sign up. Windows users may be difficult to keep the script working so we strongly suggest you to deploy a linux server.
 - 2.The script doesn't support auto running. Although the module support this function and you can manually use it, we think this function is RISKY and we strongly NOT recommand you to use.
 - 3.This project is an open-source project and use GPL3.0 License. We are irresponsible for ANY result of using this project!
+## ❤️Thanks To
+[legym / ©justcyl / GPL v3.0][1]  
+
+Open sourced under the GPL v3.0 license.
+
+  [1]: https://github.com/justcyl/legym
